@@ -1,0 +1,6 @@
+{"Tweet_ID":"3083","Entity":"Dota2","sentiment":"Neutral","tweet_content":"I am dota 2 dota 2 i like happy  -  Casey","cleaned_tweet_content":"i am dota dota i like happy casey","prediction":1.0}
+{"Tweet_ID":"2981","Entity":"Dota2","sentiment":"Negative","tweet_content":"\"What the fuck is wrong with u guys?","cleaned_tweet_content":"what the fuck is wrong with u guys","prediction":2.0}
+{"Tweet_ID":"4574","Entity":"Google","sentiment":"Negative","tweet_content":"Well that's not helping to reassure me my data is safe with @google","cleaned_tweet_content":"well that s not helping to reassure me my data is safe with","prediction":2.0}
+{"Tweet_ID":"2713","Entity":"Borderlands","sentiment":"Neutral","tweet_content":"\"Stream on Borderlands 3 tonight at 8pm!","cleaned_tweet_content":"stream on borderlands tonight at pm","prediction":0.0}
+{"Tweet_ID":"8984","Entity":"Nvidia","sentiment":"Neutral","tweet_content":"\"Early adopters get arsed once again.","cleaned_tweet_content":"early adopters get arsed once again","prediction":1.0}
+{"Tweet_ID":"1990","Entity":"CallOfDutyBlackopsColdWar","sentiment":"Negative","tweet_content":"Oh dear god my computer is gonna get fried from all this","cleaned_tweet_content":"oh dear god my computer is gonna get fried from all this","prediction":2.0}

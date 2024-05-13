@@ -1,0 +1,5 @@
+{"Tweet_ID":"8716","Entity":"NBA2K","sentiment":"Negative","tweet_content":"@NBA2K if 2K21 anything like 20 again I'm never buying a game from y'all again. Make the game like 2K16","cleaned_tweet_content":"if k anything like again i m never buying a game from y all again make the game like k","prediction":2.0}
+{"Tweet_ID":"10223","Entity":"PlayerUnknownsBattlegrounds(PUBG)","sentiment":"Positive","tweet_content":"\"Thank you waqar bhai finally pubg unbanned ðŸ˜ðŸ˜ðŸ˜ðŸ˜","cleaned_tweet_content":"thank you waqar bhai finally pubg unbanned ðÿ˜ðÿ˜ðÿ˜ðÿ˜","prediction":0.0}
+{"Tweet_ID":"3084","Entity":"Dota2","sentiment":"Neutral","tweet_content":"Kings ðŸ’¯ðŸ”¥","cleaned_tweet_content":"kings ðÿ’¯ðÿ”¥","prediction":1.0}
+{"Tweet_ID":"921","Entity":"AssassinsCreed","sentiment":"Neutral","tweet_content":"\"Get ready for the weekend with our Special â­ Offers!","cleaned_tweet_content":"get ready for the weekend with our special ­ offers","prediction":0.0}
+{"Tweet_ID":"4367","Entity":"CS-GO","sentiment":"Irrelevant","tweet_content":"\"friendship ended with mibr","cleaned_tweet_content":"friendship ended with mibr","prediction":3.0}

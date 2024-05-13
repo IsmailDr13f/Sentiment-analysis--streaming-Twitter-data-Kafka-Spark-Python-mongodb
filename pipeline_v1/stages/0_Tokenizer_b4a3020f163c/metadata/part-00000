@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.Tokenizer","timestamp":1715169298118,"sparkVersion":"3.5.1","uid":"Tokenizer_b4a3020f163c","paramMap":{"inputCol":"tweet_content","outputCol":"Tweet_vect_"},"defaultParamMap":{"outputCol":"Tokenizer_b4a3020f163c__output"}}

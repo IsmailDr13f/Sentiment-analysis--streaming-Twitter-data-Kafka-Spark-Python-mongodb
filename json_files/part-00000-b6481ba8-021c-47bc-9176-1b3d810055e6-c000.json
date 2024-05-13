@@ -1,0 +1,5 @@
+{"Tweet_ID":"10422","Entity":"RedDeadRedemption(RDR)","sentiment":"Positive","tweet_content":"This is fantastic!","cleaned_tweet_content":"this is fantastic","prediction":0.0}
+{"Tweet_ID":"2430","Entity":"Borderlands","sentiment":"Positive","tweet_content":"Platinum is the best loot @Borderlands #PS4share pic.twitter.com/oxBbrsPbV2","cleaned_tweet_content":"platinum is the best loot pic twitter com oxbbrspbv","prediction":0.0}
+{"Tweet_ID":"790","Entity":"ApexLegends","sentiment":"Neutral","tweet_content":"\"â¦@Respawnâ© â¦@PlayApexâ© #singing","cleaned_tweet_content":"¦ © ¦ ©","prediction":0.0}
+{"Tweet_ID":"3801","Entity":"Cyberpunk2077","sentiment":"Irrelevant","tweet_content":"congrats to the team at @idSoftware  for winning game of the year","cleaned_tweet_content":"congrats to the team at for winning game of the year","prediction":3.0}
+{"Tweet_ID":"4974","Entity":"GrandTheftAuto(GTA)","sentiment":"Neutral","tweet_content":"Grand Theft Auto V PR #PORTUGALIA   adymonteiro.live/home","cleaned_tweet_content":"grand theft auto v pr adymonteiro live home","prediction":1.0}

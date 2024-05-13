@@ -1,0 +1,3 @@
+{"Tweet_ID":"6961","Entity":"johnson&johnson","sentiment":"Neutral","tweet_content":"\"Transvaginal mesh: Johnson & Johnson fined $344m for deceptive marketing to women","cleaned_tweet_content":"transvaginal mesh johnson johnson fined m for deceptive marketing to wome","prediction":1.0}
+{"Tweet_ID":"5861","Entity":"HomeDepot","sentiment":"Irrelevant","tweet_content":"this pic is so cute why","cleaned_tweet_content":"this pic is so cute why","prediction":0.0}
+{"Tweet_ID":"3331","Entity":"Facebook","sentiment":"Negative","tweet_content":"Facebook is a hub of fake information.","cleaned_tweet_content":"facebook is a hub of fake information","prediction":2.0}

@@ -1,0 +1,5 @@
+{"Tweet_ID":"8788","Entity":"NBA2K","sentiment":"Negative","tweet_content":"Not this again","cleaned_tweet_content":"not this aga","prediction":0.0}
+{"Tweet_ID":"12627","Entity":"WorldOfCraft","sentiment":"Irrelevant","tweet_content":"\"My admiration for this artist grows every year! Just beautiful < 3 @malukah","cleaned_tweet_content":"my admiration for this artist grows every year just beautiful","prediction":3.0}
+{"Tweet_ID":"3602","Entity":"Cyberpunk2077","sentiment":"Irrelevant","tweet_content":"\"#RTXOn","cleaned_tweet_content":"","prediction":0.0}
+{"Tweet_ID":"9105","Entity":"Nvidia","sentiment":"Positive","tweet_content":"It's Very Interesting If We Get Something For Smartphones By Nvidia","cleaned_tweet_content":"it s very interesting if we get something for smartphones by nvidia","prediction":0.0}
+{"Tweet_ID":"6404","Entity":"Fortnite","sentiment":"Irrelevant","tweet_content":"@whoisaddison I made a fortnite montage for you:)","cleaned_tweet_content":"i made a fortnite montage for you","prediction":3.0}
