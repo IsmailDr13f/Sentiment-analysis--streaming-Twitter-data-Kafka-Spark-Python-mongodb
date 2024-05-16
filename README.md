@@ -44,6 +44,7 @@ Files:
 
 ------------------------------------------------------------------------------------------------
 Here are the requirements for our project:
+
 0. OS used: WINDOWS 11
 1. Docker Desktop: To manage and run Docker containers on your local machine.
 2. Jupyter Notebook: For interactive computing in Python and other languages.
