@@ -1,11 +1,8 @@
 
-https://github.com/IsmailDr13f/Sentiment-analysis--streaming-Twitter-data-Kafka-Spark-Python-mongodb/assets/128002689/65c79c12-8115-4597-819d-9b35ef96fcf4
-\\\\\\\\\\\\\\\\\\\\\\\\\\\
 |Project Created By :      |
 |------DRIEF ISMAIL        |
 |------AMZIL AMMAR         |
 |------ARICHI FATIMAZZOHRA |
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 
 
@@ -79,5 +76,4 @@ https://github.com/IsmailDr13f/Sentiment-analysis--streaming-Twitter-data-Kafka-
 
 _______________________________________________
 |  NB: For more details, refer to the report. |
-|_____________________________________________|
 
