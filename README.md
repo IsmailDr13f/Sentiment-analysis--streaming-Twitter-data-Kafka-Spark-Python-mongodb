@@ -1,3 +1,5 @@
+
+https://github.com/IsmailDr13f/Sentiment-analysis--streaming-Twitter-data-Kafka-Spark-Python-mongodb/assets/128002689/65c79c12-8115-4597-819d-9b35ef96fcf4
 \\\\\\\\\\\\\\\\\\\\\\\\\\\
 |Project Created By :      |
 |------DRIEF ISMAIL        |
@@ -71,9 +73,11 @@ Here are the steps to run the project:
 5. Open the `insert_2_mongodb.ipynb` file and execute the code. Check MongoDB Compass to ensure that the data is received.
 6. Navigate to the "Visualisation" folder and run the `Dashboard.py` file using the following command: `streamlit run Dashboard.py`. The web app will open in your browser.
 
+Dashboard with Streamlit:
 
-
+https://github.com/IsmailDr13f/Sentiment-analysis--streaming-Twitter-data-Kafka-Spark-Python-mongodb/assets/128002689/86ea0714-164c-479f-a623-8c2ee1dfcbd7
 
 _______________________________________________
 |  NB: For more details, refer to the report. |
 |_____________________________________________|
+
