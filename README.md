@@ -1,7 +1,10 @@
 
 |Project Created By :      |
+
 |------DRIEF ISMAIL        |
+
 |------AMZIL AMMAR         |
+
 |------ARICHI FATIMAZZOHRA |
 
 
@@ -28,19 +31,19 @@ Folders:
 
 Files:
 
-1.Clean_Func.py: Contains necessary functions for data processing.
+1.Clean_Func.py : Contains necessary functions for data processing.
 
-2.data_streamer_prediction.ipynb: Jupyter notebook with code for predicting sentiment from received tweets.
+2.data_streamer_prediction.ipynb : Jupyter notebook with code for predicting sentiment from received tweets.
 
-3.insert_2mongodb.ipynb: Jupyter notebook with code for saving predictions to a MongoDB database.
+3.insert_2mongodb.ipynb : Jupyter notebook with code for saving predictions to a MongoDB database.
 
-4.Pipeline_modelLR.ipynb: Jupyter notebook with code for the pipeline to process and predict sentiments.
+4.Pipeline_modelLR.ipynb : Jupyter notebook with code for the pipeline to process and predict sentiments.
 
-5.README.txt: Provides project information.
+5.README.txt : Provides project information.
 
-6.twitter_training.csv: CSV file containing training data.
+6.twitter_training.csv : CSV file containing training data.
 
-7.twitter_validation.csv: CSV file containing validation data.
+7.twitter_validation.csv : CSV file containing validation data.
 
 ------------------------------------------------------------------------------------------------
 Here are the requirements for our project:
